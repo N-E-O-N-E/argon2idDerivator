@@ -83,4 +83,6 @@ Ein Konzept ähnlich zu *Password Derivation Tools*, jedoch mit:
 ---
 
 ## Plattformen
-- **Android** (aktuell)  
+- **Android**
+- **MacOS**
+- **Windows**
