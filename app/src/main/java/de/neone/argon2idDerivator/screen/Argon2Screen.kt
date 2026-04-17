@@ -120,7 +120,7 @@ fun Argon2Screen() {
                         Base64.NO_WRAP
                     )
 
-                } catch (e: Exception) {
+                } catch (_: Exception) {
                     Toast.makeText(context, "Schlüsselwort benötigt mind. 8 Zeichen", Toast.LENGTH_LONG).show()
                 }
             },
